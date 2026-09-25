@@ -111,6 +111,6 @@ let Cadastro = {
     Turma: "DSi1 - SESI",
     Idade: 18
 };
-console.log(exercicio9)
+console.log(exercicio10)
 console.log(`O usuario cadastrado é ${Cadastro.Usuario}, e a senha que ele utilizou é ${Cadastro.Senha}, e o usuario foi cadastrado no nome de ${Cadastro.Nome}, o email cadastrado foi ${Cadastro.Email}, e a conta está no nivel de ${Cadastro.Nivel}, o curso que a conta foi escrita é no de ${Cadastro.Curso}, e a turma que irá frequentar é a ${Cadastro.Turma}, e a idade dele é de ${Cadastro.Idade}.`)
 console.log(separacao)
